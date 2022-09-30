@@ -9,6 +9,12 @@
   - spread (espalhar): usado para dividir elementos de um array ou propriedades de um objeto
   - rest (resto, sobra, resíduo): usado para mesclar uma lista de parâmetros de função como um array
 
+- Métodos/Funções para array
+  - map
+  - filter
+  - reduce
+- asyn/await (sintaxe para comunicação assíncrona [ajax])
+
 
 ## Sites úteis
 https://www.w3schools.com/js/js_versions.asp
